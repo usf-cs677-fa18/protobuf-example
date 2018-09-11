@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <url>https://www.cs.usfca.edu/~mmalensek/courses/cs686</url>
+    <url>https://www.cs.usfca.edu/~mmalensek/cs677</url>
     <description>
         Project 1: Distributed File System
     </description>
